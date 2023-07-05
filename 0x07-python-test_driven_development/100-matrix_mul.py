@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 """Defines a matrix multiplication function."""
 
-
 def matrix_mul(m_a, m_b):
     """Multiply two matrices.
     Args:
@@ -63,4 +62,4 @@ def matrix_mul(m_a, m_b):
             new_row.append(prod)
         new_matrix.append(new_row)
 
-    return new_matrix
+    return (new_matrix)
