@@ -47,5 +47,4 @@ cannot convert float infinity to integer
 ... except Exception as ex:
 ...     print(ex.args[0])
 cannot convert float NaN to integer
-
 '''
